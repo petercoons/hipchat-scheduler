@@ -1,7 +1,5 @@
 hipchat-scheduler
 =================
-
-# Hipchat Scheduler
 Automatically update your HipChat status based on Google Calendar meetings.
 
 ## Table of Contents
